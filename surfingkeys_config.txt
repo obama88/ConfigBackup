@@ -10,7 +10,7 @@ map("<alt-f>", "cf");
 settings.hintAlign = "left";
 
 Hints.style('border: solid 1px #282a36; color:#f8f8f2; background: #6272a4; font-size: 8pt');
-Hints.style('border: solid 1px #282a36; color:#f8f8f2; background: #6272a4; font-size: 8pt', "text");
+Hints.style('border: solid 1px #6272a4; color:#282a36; background: #f8f8f2; font-size: 8pt', "text");
 
 settings.theme = `
 .sk_theme input {

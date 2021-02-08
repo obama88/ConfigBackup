@@ -1,0 +1,90 @@
+7-Zip
+ADB
+Aria2
+BaiduNetDisk
+BaiduNetdiskDownload
+CentBrowser
+ChangZhi
+colortool
+Config.Msi
+DeliveryOptimization
+Directory_Opus
+Dism++
+Dopamine
+Epic Games
+Eudict
+Everything
+FDM Download
+Fences
+Fliqlo 1.3.3
+geek.exe
+Git
+HelloNeighbor
+Huorong
+IDM6.31.3
+Inpaint
+IntelliJ IDEA Community Edition 2019.3.1
+Java
+Microsoft VS Code
+msdownld.tmp
+MSOCache
+Notepad3_x64
+OfficeBox
+PandaOCR
+PotPlayer
+PowerToys
+Program Files
+PS CC 2019
+PyCharm Community Edition 2019.3.1
+qBittorrent
+QuickLook
+Restart Explorer.bat
+Sekiro
+Send Anywhere
+ShadowTactics
+Shortcuts
+Snipaste
+Sublime Text 3
+SumatraPDF
+System Volume Information
+The Outer Worlds
+TrafficMonitor
+TreeSizeFree-Portable
+XYPlorer Pro v19.90.0100
+YouDaoDict
+Adobe Photoshop CC 2019.lnk
+Cent Browser.lnk
+Cisco AnyConnect.lnk
+Dopamine.lnk
+Dropbox.lnk
+Excel.lnk
+Fences.lnk
+Free Download Manager.lnk
+GitHub Desktop.lnk
+IDM.lnk
+Mail.lnk
+OneDrive.lnk
+OneNote.lnk
+osu!.lnk
+PotPlayer.lnk
+PowerPoint.lnk
+qbittorrent.lnk
+QQ.lnk
+Search Everything.lnk
+Snipaste.lnk
+Spotify.lnk
+Steam.lnk
+Sublime Text.lnk
+SumatraPDF.lnk
+Typora.lnk
+uTools.lnk
+Visual Studio Code.lnk
+VLC.lnk
+Wallpaper Engine.lnk
+WeChat.lnk
+Windows Terminal.lnk
+Word.lnk
+XYPlorer Pro.lnk
+火绒安全软件.lnk
+百度网盘.lnk
+雷电模拟器.lnk

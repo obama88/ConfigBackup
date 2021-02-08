@@ -9,8 +9,8 @@ map("<alt-f>", "cf");
 
 settings.hintAlign = "left";
 
-Hints.style('border: solid 1px #282a36; color:#f8f8f2; padding: 1px; background: #6272a4; background-color: #6272a4; font-size: 8pt');
-Hints.style('border: solid 1px #282a36; color:#f8f8f2; padding: 1px; background: #6272a4; background-color: #6272a4; font-size: 8pt', "text");
+Hints.style('border: solid 1px #282a36; color:#f8f8f2; padding: 1px; background: #6272a4; font-size: 8pt');
+Hints.style('border: solid 1px #282a36; color:#f8f8f2; padding: 1px; background: #6272a4; font-size: 8pt', "text");
 
 settings.theme = `
 .sk_theme input {

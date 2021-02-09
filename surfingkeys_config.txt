@@ -35,11 +35,14 @@ settings.theme = `
     font-weight: bold;
 }
 body {
-    // font-family: "Sarasa Mono SC";
+    font-family: "Sarasa Mono SC";
     font-size: 10px;
 }
 kbd {
-    // font: 11px "Sarasa Mono SC";
+    font: 11px "Sarasa Mono SC";
+}
+#sk_banner {
+    color: #f8f8f2;
 }
 #sk_omnibarSearchArea .prompt, #sk_omnibarSearchArea .resultPage {
     font-size: 10px;

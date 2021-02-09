@@ -15,7 +15,7 @@ Hints.style('border: solid 1px #6272a4; color:#282a36; background: #f8f8f2', "te
 
 settings.theme = `
 .sk_theme input {
-    font-family: "Sarasa Mono SC";
+    font-family: "Source Code Pro";
 }
 .sk_theme .url {
     font-size: 8px;
@@ -29,17 +29,17 @@ settings.theme = `
 }
 #sk_omnibarSearchArea input {
     font-size: 10px;
-}
+ }
 .sk_theme .omnibar_visitcount {
     font-size: 9px;
     font-weight: bold;
 }
 body {
-    font-family: "Sarasa Mono SC";
+    font-family: "Source Code Pro";
     font-size: 10px;
 }
 kbd {
-    font: 11px "Sarasa Mono SC";
+    font: 11px "Source Code Pro";
 }
 #sk_banner {
     color: #f8f8f2;

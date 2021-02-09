@@ -1,11 +1,12 @@
-map("K", "R");
-map("J", "E");
-map("u", "e");
-map("H", "S");
-map("L", "D");
-map("oo", "t");
-map("F", "af");
-map("<alt-f>", "cf");
+map('K', 'R');
+map('J', 'E');
+map('u', 'e');
+map('H', 'S');
+map('L', 'D');
+map('oo', 't');
+map('F', 'af');
+map('<Alt-f>', 'cf');
+unmap('<Ctrl-h>');
 
 settings.hintAlign = "left";
 
@@ -34,11 +35,11 @@ settings.theme = `
     font-weight: bold;
 }
 body {
-    font-family: "Source Han Sans";
+    // font-family: "Source Han Sans";
     font-size: 10px;
 }
 kbd {
-    font: 11px "Source Han Sans";
+    // font: 11px "Source Han Sans";
 }
 #sk_omnibarSearchArea .prompt, #sk_omnibarSearchArea .resultPage {
     font-size: 10px;

@@ -6,7 +6,9 @@ map('L', 'D');
 map('oo', 't');
 map('F', 'af');
 map('<Alt-f>', 'cf');
+map('\`', '\'');
 unmap('<Ctrl-h>');
+
 
 settings.hintAlign = "left";
 

@@ -147,7 +147,7 @@ div.sk_tab_url {
     color: #8be9fd;
 }
 div.sk_tab_hint {
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f1fa8c), color-stop(100%,#ffb86c));
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4682b4), color-stop(100%,#b0c4de));
     color: #282a36;
     border: solid 1px #282a36;
 }

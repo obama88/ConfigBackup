@@ -12,8 +12,8 @@ unmap('<Ctrl-h>');
 
 settings.hintAlign = "left";
 
-Hints.style('border: solid 1px #282a36; color:#f8f8f2; background: #778899');
-Hints.style('border: solid 1px #6272a4; color:#282a36; background: #f0f0f0', "text");
+Hints.style('border: solid 1px #282a36; color:#f8f8f2; background: #667788');
+Hints.style('border: solid 1px #6272a4; color:#282a36; background: #e5e5e5', "text");
 
 settings.theme = `
 .sk_theme input {
